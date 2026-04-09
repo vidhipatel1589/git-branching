@@ -1,0 +1,8 @@
+#ignore my password file
+passwords.txt
+
+#ignore resources folder
+resources/
+
+#ignore any log files
+*.log
